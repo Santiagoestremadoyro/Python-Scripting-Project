@@ -17,3 +17,10 @@ This Python script project focuses on pushing the boundaries of scripting profic
 - Concurrency and parallelism: Explore concurrency and parallelism in Python, employing libraries like asyncio or multiprocessing to enhance script performance.
 - Integration of external APIs: Integrate with external APIs to fetch data, perform operations, or interact with external systems, expanding the script's capabilities.
 - User interaction and interface: Develop user-friendly interfaces or command-line interfaces (CLIs) to facilitate user interaction and streamline script usage.
+
+# Project Objectives
+
+- [ ] Skill enhancement: Enhance Python scripting skills by tackling challenging programming tasks and exploring advanced concepts.
+- [ ] Problem-solving proficiency: Improve problem-solving abilities by developing solutions for complex problems using Python.
+- [ ] Code optimization: Learn techniques for optimizing code performance and efficiency, making scripts faster and more resource-efficient.
+- [ ] Project management: Gain experience in project planning, execution, and management, ensuring successful completion of the script project.
