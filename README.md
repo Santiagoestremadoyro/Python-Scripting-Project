@@ -20,7 +20,7 @@ This Python script project focuses on pushing the boundaries of scripting profic
 
 # Project Objectives
 
-- [ ] Skill enhancement: Enhance Python scripting skills by tackling challenging programming tasks and exploring advanced concepts.
-- [ ] Problem-solving proficiency: Improve problem-solving abilities by developing solutions for complex problems using Python.
-- [ ] Code optimization: Learn techniques for optimizing code performance and efficiency, making scripts faster and more resource-efficient.
-- [ ] Project management: Gain experience in project planning, execution, and management, ensuring successful completion of the script project.
+- [x] Skill enhancement: Enhance Python scripting skills by tackling challenging programming tasks and exploring advanced concepts.
+- [x] Problem-solving proficiency: Improve problem-solving abilities by developing solutions for complex problems using Python.
+- [x] Code optimization: Learn techniques for optimizing code performance and efficiency, making scripts faster and more resource-efficient.
+- [x] Project management: Gain experience in project planning, execution, and management, ensuring successful completion of the script project.
