@@ -23,7 +23,7 @@ def get_name_from_path(paths, to_strip):
     new_names = []
     for path in paths:
         _, dir_name = os.path.split(path)
-        new_dir_name = dir_name.reaplace(to_strip, "")
+        new_dir_name = dir_name.replace(to_strip, "")
         new_names.append(new_dir_name)
 
     return new_names
